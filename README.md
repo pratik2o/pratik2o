@@ -18,7 +18,7 @@ When the sun sets and the stars align, you'll find me donning my virtual armor a
 
 ## What Sorcery Do I Possess? 🧙‍♂️
 - **Development:** I speak the language of machines fluently, from Python and JavaScript to Java and beyond. 💻🔮
-- **PC Building:** I possess the ancient knowledge passed down through generations, mastering the art of PC assembly, overclocking, and RGB sorcery. 🌈🔨
+- **PC Building:** I possess the ancient knowledge passed down through generations, mastering the art of PC assembly, overclocking, and RGB sorcery. 🔨
 - **Gaming:** I'm not just a gamer; I'm a legend in the making, conquering worlds and forging alliances across platforms and galaxies. 🌌🏆
 
 ## Connect with the Enchanter ✨
